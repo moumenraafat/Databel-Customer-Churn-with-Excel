@@ -1,4 +1,4 @@
-# Customer Churn Analysis Dashboard (Excel)
+# 📊 Customer Churn Analysis Dashboard (Excel)
 
 ## 📌 Overview
 This project features an interactive **Excel Dashboard** designed to analyze and visualize customer churn data. The primary goal is to identify why customers are leaving and provide actionable insights to improve retention strategies.
